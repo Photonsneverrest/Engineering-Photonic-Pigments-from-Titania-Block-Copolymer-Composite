@@ -17,6 +17,19 @@ metadata/ Experimental parameters, sample descriptions
 figures/ Reference figures used in the manuscript (if applicable)
 scripts/ Optional scripts used for data inspection or plotting
 
+README.md
+CITATION.cff
+LICENSE
+manifest.csv
+data/
+	raw/
+	processed/
+  		tables/
+	analysis/
+  		scripts/
+	outputs/
+		figures/
+  
 ---
 
 ## License
