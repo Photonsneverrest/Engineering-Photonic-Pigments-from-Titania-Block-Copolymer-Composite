@@ -3,13 +3,13 @@
 This repository contains the raw experimental data associated with the manuscript:
 
 > **Engineering Photonic Pigments from Titania-Block Copolymer Composites**  
-> Niklas Rocca Schwarz et al.  
+> Niklas Rocca Schwarz, Jorge Larios, Antoine Scalabre, Matthias Saba, Ullrich Steiner, Andrea Dodero
 > *Journal*, Year  
 > Manuscript DOI: [to be added]
 
 The archived version of this data repository is available via Zenodo:
 
-> **Data DOI:** https://doi.org/10.5281/zenodo.17976500
+> **Data DOI:** https://doi.org/10.5281/zenodo.21250386
 
 The data are provided to support transparency, reproducibility, and reuse of the results reported in the manuscript.
 
@@ -51,15 +51,15 @@ While not legally required under CC0, **please cite the associated publication**
 
 # Dataset
 
-Niklas Rocca Schwarz et al.,
-Raw data for "Structuring, Scattering, Swelling: Engineering Photonic Pigments from Titania-Block Copolymer Composites",
+Niklas Rocca Schwarz, Jorge Larios, Antoine Scalabre, Matthias Saba, Ullrich Steiner, Andrea Dodero
+Raw data for "Engineering Photonic Pigments from Titania-Block Copolymer Composites",
 Zenodo, Year.
-https://doi.org/10.5281/zenodo.17976500
+https://doi.org/10.5281/zenodo.21250386
 
 # Manuscript
 
-Niklas Rocca Schwarz et al.,
-Structuring, Scattering, Swelling: Engineering Photonic Pigments from Titania-Block Copolymer Composites,
+Niklas Rocca Schwarz, Jorge Larios, Antoine Scalabre, Matthias Saba, Ullrich Steiner, Andrea Dodero
+Engineering Photonic Pigments from Titania-Block Copolymer Composites,
 Journal, Year.
 DOI: [to be added]
 
