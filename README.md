@@ -1,13 +1,17 @@
-# Raw Data for Structuring-Scattering-Swelling-Engineering-Photonic-Pigments-from-Titania-Block-Copolymer-Composites
+# Raw Data for "Engineering Photonic Pigments from Titania-Block Copolymer Composites"
 
-This repository contains the **raw experimental data** supporting the publication:
+This repository contains the raw experimental data associated with the manuscript:
 
-> **Structuring-Scattering-Swelling-Engineering-Photonic-Pigments-from-Titania-Block-Copolymer-Composites**  
-> Author(s)  
+> **Engineering Photonic Pigments from Titania-Block Copolymer Composites**  
+> Niklas Rocca Schwarz et al.  
 > *Journal*, Year  
-> DOI: 10.5281/zenodo.17976500
+> Manuscript DOI: [to be added]
 
-The data are provided to support transparency, reproducibility, and reuse of the results reported in the paper.
+The archived version of this data repository is available via Zenodo:
+
+> **Data DOI:** https://doi.org/10.5281/zenodo.17976500
+
+The data are provided to support transparency, reproducibility, and reuse of the results reported in the manuscript.
 
 ---
 
