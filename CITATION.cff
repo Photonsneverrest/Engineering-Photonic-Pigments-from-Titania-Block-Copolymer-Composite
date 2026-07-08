@@ -1,26 +1,63 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
-title: >-
-  Structuring-Scattering-Swelling-Engineering-Photonic-Pigments-from-Titania-Block-Copolymer-Composites
-message: >-
-  If you use this dataset, please cite it using the metadata
-  from this file.
+
+title: "Raw data for: Engineering Photonic Pigments From Titania-Block Copolymer Composites"
+
+message: >
+  If you use this dataset, please cite both the dataset
+  and the associated publication.
+
 type: dataset
+
 authors:
-  - given-names: Niklas Rocca
-    family-names: Schwarz
-    email: niklas.schwarz@unifr.ch
+  - family-names: Schwarz
+    given-names: Niklas Rocca
     affiliation: University of Fribourg
-    orcid: 'https://orcid.org/0009-0004-3551-4535'
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.17976500
-    description: Github repository linked to Zenodo
-  - type: url
-    value: 'https://doi.org/10.5281/zenodo.17976499'
-    description: Repository Link
-repository-code: >-
-  https://github.com/Photonsneverrest/Structuring-Scattering-Swelling-Engineering-Photonic-Pigments-from-Titania-Block-Copolymer-Composite
+    orcid: "https://orcid.org/0009-0004-3551-4535"
+
+  - family-names: Larios
+    given-names: Jorge
+
+  - family-names: Scalabre
+    given-names: Antoine
+
+  - family-names: Saba
+    given-names: Matthias
+
+  - family-names: Steiner
+    given-names: Ullrich
+
+  - family-names: Dodero
+    given-names: Andrea
+
+doi: 10.5281/zenodo.17976499
+
+repository-code: "https://github.com/Photonsneverrest/Engineering-Photonic-Pigments-From-Titania-Block-Copolymer-Composites"
+
 license: CC0-1.0
+
+keywords:
+  - photonic pigments
+  - block copolymers
+  - titania
+  - structural color
+  - refractive index
+
+references:
+  - type: article
+    authors:
+      - family-names: Schwarz
+        given-names: Niklas Rocca
+      - family-names: Larios
+        given-names: Jorge
+      - family-names: Scalabre
+        given-names: Antoine
+      - family-names: Saba
+        given-names: Matthias
+      - family-names: Steiner
+        given-names: Ullrich
+      - family-names: Dodero
+        given-names: Andrea
+
+    title: "Engineering Photonic Pigments From Titania-Block Copolymer Composites"
+
+    doi: "10.1002/marc.70359"
