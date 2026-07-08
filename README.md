@@ -1,8 +1,8 @@
-# Raw Data for "Engineering Photonic Pigments from Titania-Block Copolymer Composites"
+# Raw Data for "Engineering Photonic Pigments From Titania–Block Copolymer Composites"
 
 This repository contains the raw experimental data associated with the manuscript:
 
-> **Engineering Photonic Pigments from Titania-Block Copolymer Composites**  
+> **Engineering Photonic Pigments From Titania–Block Copolymer Composites**  
 > Niklas Rocca Schwarz, Jorge Larios, Antoine Scalabre, Matthias Saba, Ullrich Steiner, Andrea Dodero
 > *Journal*, Year  
 > Manuscript DOI: [to be added]
