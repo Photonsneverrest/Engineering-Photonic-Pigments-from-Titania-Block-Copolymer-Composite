@@ -1,40 +1,57 @@
 # Raw Data for "Engineering Photonic Pigments From Titania–Block Copolymer Composites"
 
-This repository contains the raw experimental data associated with the manuscript:
+This repository contains the raw experimental data associated with the publication:
 
 > **Engineering Photonic Pigments From Titania–Block Copolymer Composites**  
-> Niklas Rocca Schwarz, Jorge Larios, Antoine Scalabre, Matthias Saba, Ullrich Steiner, Andrea Dodero
-> *Journal*, Year  
-> Manuscript DOI: [to be added]
+> Niklas Rocca Schwarz, Jorge Larios, Antoine Scalabre, Matthias Saba, Ullrich Steiner, Andrea Dodero  
+> *Macromolecular Rapid Communications*  
+> DOI: https://doi.org/10.1002/marc.70359
 
-The archived version of this data repository is available via Zenodo:
+The archived version of this data repository is available through Zenodo:
 
-> **Data DOI:** https://doi.org/10.5281/zenodo.21250386
+> **Dataset DOI (Concept DOI):** https://doi.org/10.5281/zenodo.17976499
 
-The data are provided to support transparency, reproducibility, and reuse of the results reported in the manuscript.
+The concept DOI always resolves to the most recent archived version of the dataset.
+
+The data are provided to support transparency, reproducibility, and reuse of the results reported in the publication.
 
 ---
 
 ## Repository contents
-The raw data are organized by main-text figure. Each figure-specific folder contains the files required to reproduce or inspect the data shown in the corresponding figure panels.
 
-data/ Raw experimental data files
-figures/ Reference figures used in the manuscript (if applicable)
-scripts/ Optional scripts used for data inspection or plotting
+The raw data are organized by main-text figure. Each figure-specific folder contains the files required to inspect or reproduce the data shown in the corresponding figure panels.
 
+```text
 README.md
 CITATION.cff
 LICENSE
-manifest.csv
+
 data/
-	raw/
-	processed/
-  		tables/
-	analysis/
-  		scripts/
-	outputs/
-		figures/
-  
+├── raw/
+│   ├── Figure_1/
+│   ├── Figure_2/
+│   ├── Figure_3/
+│   ├── Figure_4/
+│   ├── Figure_5/
+│   └── Figure_6/
+│
+├── intermediate/
+│
+└── processed/
+    └── tables/
+
+analysis/
+└── scripts/
+
+outputs/
+└── figures/
+    ├── Figure_1/
+    ├── Figure_2/
+    ├── Figure_3/
+    ├── Figure_4/
+    ├── Figure_5/
+    └── Figure_6/
+```
 ---
 
 ## License
@@ -42,6 +59,8 @@ data/
 All data in this repository are released under **Creative Commons Zero v1.0 Universal (CC0 1.0)**.
 
 This means the data may be used, modified, and redistributed for any purpose, without restriction.
+
+See the LICENSE file for details.
 
 ---
 
@@ -51,17 +70,17 @@ While not legally required under CC0, **please cite the associated publication**
 
 # Dataset
 
-Niklas Rocca Schwarz, Jorge Larios, Antoine Scalabre, Matthias Saba, Ullrich Steiner, Andrea Dodero
-Raw data for "Engineering Photonic Pigments from Titania-Block Copolymer Composites",
-Zenodo, Year.
-https://doi.org/10.5281/zenodo.21250386
+Schwarz, N. R., Larios, J., Scalabre, A., Saba, M., Steiner, U., & Dodero, A.
+ Raw Data for "Engineering Photonic Pigments From Titania–Block Copolymer Composites".
+ Zenodo.
+ https://doi.org/10.5281/zenodo.17976499
 
-# Manuscript
+# Associated publication
 
-Niklas Rocca Schwarz, Jorge Larios, Antoine Scalabre, Matthias Saba, Ullrich Steiner, Andrea Dodero
-Engineering Photonic Pigments from Titania-Block Copolymer Composites,
-Journal, Year.
-DOI: [to be added]
+Schwarz, N. R., Larios, J., Scalabre, A., Saba, M., Steiner, U., & Dodero, A.
+ Engineering Photonic Pigments From Titania–Block Copolymer Composites.
+ Macromolecular Rapid Communications.
+ https://doi.org/10.1002/marc.70359
 
 A machine-readable citation is provided in `CITATION.cff`.
 
@@ -77,5 +96,6 @@ A machine-readable citation is provided in `CITATION.cff`.
 ## Contact
 
 Niklas Rocca Schwarz
-Adolphe Merkle Institute
-ORCID: 0009-0004-3551-4535
+ Adolphe Merkle Institute
+ University of Fribourg
+ ORCID: https://orcid.org/0009-0004-3551-4535
